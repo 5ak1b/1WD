@@ -1,0 +1,4 @@
+Father = Sorcerer Supreme
+Mother = Witch Supreme
+Son = Wizard Supreme
+Daughter = Magician Supreme
